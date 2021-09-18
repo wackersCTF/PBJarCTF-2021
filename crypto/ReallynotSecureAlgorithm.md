@@ -1,0 +1,3 @@
+#ReallynotSecureAlgorithm
+
+flag{n0t_to0_h4rd_rIt3_19290453}
